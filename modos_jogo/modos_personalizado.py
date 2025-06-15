@@ -1,2 +1,0 @@
-def jogatina():
-    print("macacada")
