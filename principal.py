@@ -56,6 +56,8 @@ def menu():
                 pygame.mixer.music.stop()
                 os.system("cls")
                 import joy
+                sys.exit()
+                break
             case _:
                 escolha = 0
                 return recusa()
